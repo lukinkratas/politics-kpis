@@ -2,13 +2,6 @@
 
 @README.md
 
-## Git workflow
-
-- Use git worktrees.
-- Branch names: `feat/`, `fix/` or `chore/` plus kebab-case.
-- Conventional commits; never commit to `main`.
-- Open PRs with `gh pr create --draft --base main`.
-
 ## 1. Think Before Coding
 
 **Don't assume. Don't hide confusion. Surface tradeoffs.**
