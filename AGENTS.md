@@ -2,6 +2,8 @@
 
 @README.md
 
+**Target audience:** Czech people -> All text visible on frontend has to be written in czech.
+
 ## 1. Think Before Coding
 
 **Don't assume. Don't hide confusion. Surface tradeoffs.**

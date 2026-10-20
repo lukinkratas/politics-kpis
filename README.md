@@ -2,10 +2,6 @@
 
 Dashboard app for politics KPIs in the Czech Republic
 
-### Tech Stack
+**Tech Stack:** React
 
-React
-
-### Backend
-
-Use CSU public API as backend.
+**Backend:** CSU public API
